@@ -20,10 +20,4 @@ if st.button("Calcular"):
         st.success(f"Cantidad de azúcar a agregar: {azucar_agregar:.2f} kg")
         st.success(f"Cantidad de agua a agregar: {agua_agregar:.2f} kg")
     else:
-        st.error("Por favor, ingrese valores mayores a 0 para todos los campos.")*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
-
+        st.error("Por favor, ingrese valores mayores a 0 para todos los campos.")
